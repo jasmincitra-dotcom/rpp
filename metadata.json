@@ -1,0 +1,5 @@
+{
+  "name": "DeepPlan AI - RPP Generator",
+  "description": "Aplikasi cerdas penyusun Rencana Pelaksanaan Pembelajaran (RPP) berbasis prinsip Pembelajaran Mendalam (Deep Learning) menggunakan Google Gemini AI. Mendukung ekspor ke format Microsoft Word.",
+  "requestFramePermissions": []
+}
